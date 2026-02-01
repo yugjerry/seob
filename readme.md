@@ -1,4 +1,4 @@
-# seob — Statistical Equilibrium of Optimistic Beliefs (SE-OB)
+# Statistical Equilibrium of Optimistic Beliefs (SE-OB)
 
 Code and experiments for **Statistical Equilibrium of Optimistic Beliefs (SE-OB)** (Yu Gui and Bahar Taşkesen, 2025).
 
